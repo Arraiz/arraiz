@@ -13,7 +13,7 @@ Mantenedor de:
 
 # Mikel Diez
 
-Telecommunications Engineer with interests in computing and security. Doind AI to pay the bills
+Telecommunications Engineer with interests in computing and security. Doing AI to pay the bills
 
 My website: [arraiz.me](https://arraiz.me)
 
